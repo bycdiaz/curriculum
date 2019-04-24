@@ -52,7 +52,7 @@ Python is a big language with lots of syntax, so we've broken the concepts up in
 ### Optional Python Materials
 The resources listed below cover Python basics, and you may want to go through these on the side while going through the first section of this Python Basics course. Repetition is the mother of all learning after all!
 
-Consider the resources here optional, though; we recommend them to help supplement your learning.
+These resources are optional but we recommend them to help supplement your learning.
 
 1. DataCamp's [Introduction to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) course covers the basics of Python.
 2. Swaroop's [A Byte of Python](https://python.swaroopch.com/) book covers the basics of Python and introduces object oriented programming (OOP).
