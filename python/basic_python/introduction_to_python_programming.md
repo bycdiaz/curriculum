@@ -46,7 +46,7 @@ Python is a big language with lots of syntax, so we've broken the concepts up in
 
 1. Read the [Introduction to Python 3](https://realpython.com/python-introduction/) by Real Python to learn a bit more about the history of Python.
 2. To understand how you'll be interacting with Python throughout this course, read through the [Interacting with Python](https://realpython.com/interacting-with-python/) article from Real Python.
-3. Now that you've learned a few ways to interact with your Python code, read the [Python Interpreter Tricks](http://howtopython.org/en/latest/the-interpreter/#python-interpreter-tricks) in this post by How to Python. Pay special attention to the interactive mode trick which will be very helpful for quick troubleshooting and experimenting. 
+3. Now that you've learned a few ways to interact with your Python code, read the [Python Interpreter Tricks](http://howtopython.org/en/latest/the-interpreter/#python-interpreter-tricks) section of this post by How to Python. Pay special attention to the interactive mode trick which will be very helpful for quick troubleshooting and experimenting. 
 4. Read Real Python's [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/) for some helpful advice about using and learning Python effectively.
 
 ### Optional Python Materials
