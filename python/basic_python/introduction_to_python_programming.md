@@ -24,16 +24,16 @@ int main()
 >>> Hello, World!
 ~~~
 
-Besides being a great introductory language for beginners, Python has also become quite popular in other domains such as web development ---which we'll focus on later--- and data science. It also sports a friendly and active community that is constantly creating libraries that make our lives as programmers easier. 
+Besides being a great introductory language for beginners, Python has also become quite popular in other domains such as web development —which we'll focus on later— and data science. It also sports a friendly and active community that is constantly creating libraries that make our lives as programmers easier. 
 
 > **Fun fact:** Python was not named after the snake as some may believe but rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
 
-You'll do a healthy chunk of learning in this course, but by the end of it all, you'll have built some pretty sweet projects including **Tic Tac Toe**, **Hangman**, and even **Chess**. You'll be able to save and open files, write tests for your code, separate out your spaghetti code into nice, distinct classes, and even reproduce some basic algorithms and data structures to solve complex problems. 
+In this course you'll do a healthy chunk of learning, but by the end of it all, you'll have built some pretty sweet projects including **Tic Tac Toe**, **Hangman**, and even **Chess**. You'll be able to save and open files, write tests for your code, separate out your spaghetti code into nice, distinct classes, and even reproduce some basic algorithms and data structures to solve complex problems. 
 
 **Basically, you're going to start feeling a whole lot more like a real programmer, and that feeling will be justified.** 
 
 ### The Path Ahead
-Python is a big language with lots of syntax, so we've broken the concepts up into smaller chunks to make it more digestible. Some of the early material will be fairly straightforward and will rely on simple exercises to help reinforce your understanding. As you progress through the course, the goal is for you to get a much deeper and more practical understanding of the material. As you move into some of the more advanced topics, you'll be reading less and building more--just the way it should be!
+Python is a big language with lots of syntax, so we've broken the concepts up into smaller chunks to make it more digestible. Some of the early material will be fairly straightforward and will rely on simple exercises to help reinforce your understanding. As you progress through the course, the goal is for you to get a much deeper and more practical understanding of the material. As you move into some of the more advanced topics, you'll be reading less and building more— just the way it should be!
 
 * In the first section, you'll learn all about the basics of Python along with some classic programming basics.
 * In the second section, you'll learn about object-oriented programming, which will show you how to cleanly and neatly organize your code into reusable objects.
