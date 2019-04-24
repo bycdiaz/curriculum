@@ -57,5 +57,5 @@ These resources are optional but we recommend them to help supplement your learn
 1. DataCamp's [Introduction to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) course covers the basics of Python.
 2. Swaroop's [A Byte of Python](https://python.swaroopch.com/) book covers the basics of Python and introduces object oriented programming (OOP).
 
-### Okay, enough talk. Let's learn Ruby!
+### Okay, enough talk. Let's learn Python!
 
