@@ -1,13 +1,30 @@
 ### Introduction
-Python has been growing in popularity over the last few years. A quick look at Google Trends shows that in the last 5 years Python has been
+Python is a general-purpose programming language created in the late 1980s by Guido van Rossum. In recent years, Python has grown rapidily and has become one of the most popular languages today. The [2019 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019) ranked Python as the 4th most *popular* programming language. But what is probably more interesting is that the same survey ranked Python as the 2nd most *loved* and the most *wanted* language... period.
 
-The [2019 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019) ranked Python as the 4th most *popular* programming language. But what is probably more interesting is that the same survey ranked Python as the 2nd most *loved* and the 1st most *wanted* language.
+Much of it's success comes from the fact that Python is fairly easy to learn and is a great language for beginners who desire to learn computer programming. In fact, many universities teach Python in their introductory computer sciences courses.
 
-### Brief History
-The name Python, by the way, derives not from the snake, but from the British comedy troupe Monty Python’s Flying Circus.
+Here is an example of the classic Hello World program using Python:
 
+~~~python
+print("Hello world!")
+>>> Hello, World!
+~~~
 
-This course is all about teaching you **Python**, the language designed specifically for programmer happiness. What could possibly be better than that?! A task that takes dozens of lines of code to accomplish in Java or a hundred in C could take just a few in Ruby thanks to Ruby prepackaging so many useful functions into easy-to-use and convenient methods.
+Pretty simple and readible, right? For comparison, here is the same code written in C:
+
+~~~c
+#include <stdio.h>
+int main()
+{
+    printf("Hello world!");
+    return 0;
+}
+>>> Hello, World!
+~~~
+
+Here's a fun fact for you, Python was not named after the snake, rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
+
+Python is a general-purpose programming language that can be applied to many different classes of problems. A task that takes dozens of lines of code to accomplish in Java or a hundred in C could take just a few in Ruby thanks to Ruby prepackaging so many useful functions into easy-to-use and convenient methods.
 
 Ruby and Python are quite similar and in some ways resemble Romance languages: once you've learned one, it's not terribly hard to pick up the other because they tend to follow many of the same conventions. Python tends to be taught more in colleges and is often used for more data-intensive and processor-heavy applications.
 
