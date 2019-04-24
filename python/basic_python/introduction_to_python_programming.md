@@ -3,10 +3,10 @@ Python is a general-purpose programming language created in the late 1980s by Gu
 
 Much of it's success comes from the fact that Python is fairly easy to learn and is a great language for beginners who desire to learn computer programming. In fact, many universities teach Python in their introductory computer sciences courses.
 
-Here is an example of the classic Hello World program using Python:
+Here is an example of the classic "Hello, World!" program using Python:
 
 ~~~python
-print("Hello world!")
+print("Hello, World!")
 >>> Hello, World!
 ~~~
 
@@ -16,19 +16,16 @@ Pretty simple and readible, right? For comparison, here is the same code written
 #include <stdio.h>
 int main()
 {
-    printf("Hello world!");
+    printf("Hello, World!");
     return 0;
 }
 >>> Hello, World!
 ~~~
 
+Besides being a great introductory language for future programmers, Python has become quite popular in other domains such as web development --which we'll focus on later-- and data science.
+
 > **Fun fact:** Python was not named after the snake, rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
 
-Python is a general-purpose programming language that can be applied to many different classes of problems. A task that takes dozens of lines of code to accomplish in Java or a hundred in C could take just a few in Ruby thanks to Ruby prepackaging so many useful functions into easy-to-use and convenient methods.
-
-Ruby and Python are quite similar and in some ways resemble Romance languages: once you've learned one, it's not terribly hard to pick up the other because they tend to follow many of the same conventions. Python tends to be taught more in colleges and is often used for more data-intensive and processor-heavy applications.
-
-However, Ruby has a secret weapon that makes it the love of fast-iterating web developers: the **Ruby on Rails** framework, which we'll cover in a later course. Rails has been optimized for writing code faster and with less headache, allowing you to iterate more frequently when building a website. Faster iteration means that the end product is more likely to suit the client's or users' needs, making your projects more successful.
 
 You'll do a healthy chunk of learning in this course, but by the end of it all, you'll have built some pretty sweet projects including **Tic Tac Toe**, **Hangman**, and even **Chess**. You'll be able to save and open files, write tests for your code, separate out your spaghetti code into nice, distinct classes, and even reproduce some basic algorithms and data structures to solve complex problems. 
 
