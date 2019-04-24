@@ -1,7 +1,9 @@
 ### Introduction
-Python is a general-purpose programming language created in the late 1980s by Guido van Rossum. In recent years, Python has grown rapidily and has become one of the most popular languages today. The [2019 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019) ranked Python as the 4th most *popular* programming language. But what is probably more interesting is that the same survey ranked Python as the 2nd most *loved* and the most *wanted* language... period.
+Python is a general-purpose programming language created in the late 1980s by Guido van Rossum. In recent years, Python has grown rapidily and has become one of the most popular languages today. The [2019 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019) ranked Python as the 4th most *popular* programming language. But what is probably more interesting is that according to the survey, Python was 2nd most *loved* language and the most *wanted* language... period. Let that marinate for a bit. Programmers love writing code in Python, it continues to grow in popularity and it's wanted by others.  That's pretty remarkable. 
 
-Much of it's success comes from the fact that Python is fairly easy to learn and is a great language for beginners who desire to learn computer programming. In fact, many universities teach Python in their introductory computer sciences courses.
+But what makes Python so special? 
+
+There are many reasons but much of its success comes from the fact that Python is fairly easy to learn and is a great language for beginners who desire to learn computer programming. In fact, many universities teach Python in their introductory computer sciences courses.
 
 Here is an example of the classic "Hello, World!" program using Python:
 
@@ -22,17 +24,16 @@ int main()
 >>> Hello, World!
 ~~~
 
-Besides being a great introductory language for future programmers, Python has become quite popular in other domains such as web development --which we'll focus on later-- and data science.
+Besides being a great introductory language beginners, Python has also become quite popular in other domains such as web development --which we'll focus on later-- and data science. It also sports a friendly and active community that is constantly creating packages that make our lives as programmers easier. 
 
-> **Fun fact:** Python was not named after the snake, rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
-
+> **Fun fact:** Python was not named after the snake as some may believe but rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
 
 You'll do a healthy chunk of learning in this course, but by the end of it all, you'll have built some pretty sweet projects including **Tic Tac Toe**, **Hangman**, and even **Chess**. You'll be able to save and open files, write tests for your code, separate out your spaghetti code into nice, distinct classes, and even reproduce some basic algorithms and data structures to solve complex problems. 
 
 **Basically, you're going to start feeling a whole lot more like a real programmer, and that feeling will be justified.** 
 
 ### The Path Ahead
-Ruby is a big language with lots of syntax, so we've broken the concepts up into smaller chunks to make it more digestible. Some of the early material will be fairly straightforward and will rely on simple exercises to help reinforce your understanding. As you progress through the course, the goal is for you to get a much deeper and more practical understanding of the material. As you move into some of the more advanced topics, you'll be reading less and building more--just the way it should be!
+Python is a big language with lots of syntax, so we've broken the concepts up into smaller chunks to make it more digestible. Some of the early material will be fairly straightforward and will rely on simple exercises to help reinforce your understanding. As you progress through the course, the goal is for you to get a much deeper and more practical understanding of the material. As you move into some of the more advanced topics, you'll be reading less and building more--just the way it should be!
 
 * In the first section, you'll learn all about the basics of Ruby along with some classic programming basics.
 * In the second section, you'll learn about object-oriented programming, which will show you how to cleanly and neatly organize your code into reusable objects.
