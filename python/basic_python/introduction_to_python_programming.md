@@ -22,7 +22,7 @@ int main()
 >>> Hello, World!
 ~~~
 
-Here's a fun fact for you, Python was not named after the snake, rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
+> **Fun fact:** Python was not named after the snake, rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
 
 Python is a general-purpose programming language that can be applied to many different classes of problems. A task that takes dozens of lines of code to accomplish in Java or a hundred in C could take just a few in Ruby thanks to Ruby prepackaging so many useful functions into easy-to-use and convenient methods.
 
