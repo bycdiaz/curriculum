@@ -24,7 +24,7 @@ int main()
 >>> Hello, World!
 ~~~
 
-Besides being a great introductory language beginners, Python has also become quite popular in other domains such as web development ---which we'll focus on later--- and data science. It also sports a friendly and active community that is constantly creating packages that make our lives as programmers easier. 
+Besides being a great introductory language for beginners, Python has also become quite popular in other domains such as web development ---which we'll focus on later--- and data science. It also sports a friendly and active community that is constantly creating libraries that make our lives as programmers easier. 
 
 > **Fun fact:** Python was not named after the snake as some may believe but rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
 
@@ -35,7 +35,7 @@ You'll do a healthy chunk of learning in this course, but by the end of it all, 
 ### The Path Ahead
 Python is a big language with lots of syntax, so we've broken the concepts up into smaller chunks to make it more digestible. Some of the early material will be fairly straightforward and will rely on simple exercises to help reinforce your understanding. As you progress through the course, the goal is for you to get a much deeper and more practical understanding of the material. As you move into some of the more advanced topics, you'll be reading less and building more--just the way it should be!
 
-* In the first section, you'll learn all about the basics of Ruby along with some classic programming basics.
+* In the first section, you'll learn all about the basics of Python along with some classic programming basics.
 * In the second section, you'll learn about object-oriented programming, which will show you how to cleanly and neatly organize your code into reusable objects.
 * In the third section, you'll dive into some basic computer science, where you'll learn about recursion and common data structures.
 * In the fourth section, you'll learn the basics of test-driven development.
@@ -46,16 +46,16 @@ Python is a big language with lots of syntax, so we've broken the concepts up in
 
 1. Read the [Introduction to Python 3](https://realpython.com/python-introduction/) by Real Python to learn a bit more about the history of Python.
 2. To understand how you'll be interacting with Python throughout this course, read through the [Interacting with Python](https://realpython.com/interacting-with-python/) article from Real Python.
-3. Read Real Python's [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/) for some helpful advice about using and learning Python effectively.
-4. Now that you've learned a few ways to interact with your Ruby code, read about [how to use code files inside IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339), which will be helpful for quick troubleshooting and experimenting. 
+3. Now that you've learned a few ways to interact with your Python code, read the [Python Interpreter Tricks](http://howtopython.org/en/latest/the-interpreter/#python-interpreter-tricks) in this post by How to Python. Pay special attention to the interactive mode trick which will be very helpful for quick troubleshooting and experimenting. 
+4. Read Real Python's [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/) for some helpful advice about using and learning Python effectively.
 
-### Optional Ruby Materials
-The resources listed below cover Ruby basics, and you may want to go through these on the side while going through the first section of this Ruby Basics course. Repetition is the mother of all learning after all!
+### Optional Python Materials
+The resources listed below cover Python basics, and you may want to go through these on the side while going through the first section of this Python Basics course. Repetition is the mother of all learning after all!
 
 Consider the resources here optional, though; we recommend them to help supplement your learning.
 
-1. [The Codecademy Ruby course](https://www.codecademy.com/learn/learn-ruby) covers Ruby basics and OOP basics.
-2. [Chris Pine's Learn to Program book](https://pine.fm/LearnToProgram/) covers Ruby basics along with plenty of exercises.
+1. DataCamp's [Introduction to Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/) course covers the basics of Python.
+2. Swaroop's [A Byte of Python](https://python.swaroopch.com/) book covers the basics of Python and introduces object oriented programming (OOP).
 
 ### Okay, enough talk. Let's learn Ruby!
 
