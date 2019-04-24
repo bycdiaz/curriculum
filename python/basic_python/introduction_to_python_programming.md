@@ -24,7 +24,7 @@ int main()
 >>> Hello, World!
 ~~~
 
-Besides being a great introductory language beginners, Python has also become quite popular in other domains such as web development --which we'll focus on later-- and data science. It also sports a friendly and active community that is constantly creating packages that make our lives as programmers easier. 
+Besides being a great introductory language beginners, Python has also become quite popular in other domains such as web development ---which we'll focus on later--- and data science. It also sports a friendly and active community that is constantly creating packages that make our lives as programmers easier. 
 
 > **Fun fact:** Python was not named after the snake as some may believe but rather it's name was inspired by the classic televion show, [Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python).
 
@@ -44,9 +44,9 @@ Python is a big language with lots of syntax, so we've broken the concepts up in
 
 ### Assignment
 
-1. Read the [Introduction](https://launchschool.com/books/ruby/read/introduction) of Launch School's *Introduction to Programming with Ruby* book to learn a bit more about the history of Ruby.
-2. To understand how you'll be interacting with Ruby throughout this course, read through the [Your Tools chapter](http://ruby-for-beginners.rubymonstas.org/your_tools.html) of The *Ruby for Beginners* book from Ruby Monstas. (Note that even though they recommend using Sublime as your text editor, any code editor will work. For the record, we still tend to prefer VS Code around here!)
-3. Read through the [Preparations](https://launchschool.com/books/ruby/read/preparations#usingacodeeditor) of Launch School's *Introduction to Programming with Ruby* book for some helpful advice about using and learning Ruby effectively.
+1. Read the [Introduction to Python 3](https://realpython.com/python-introduction/) by Real Python to learn a bit more about the history of Python.
+2. To understand how you'll be interacting with Python throughout this course, read through the [Interacting with Python](https://realpython.com/interacting-with-python/) article from Real Python.
+3. Read Real Python's [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/) for some helpful advice about using and learning Python effectively.
 4. Now that you've learned a few ways to interact with your Ruby code, read about [how to use code files inside IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339), which will be helpful for quick troubleshooting and experimenting. 
 
 ### Optional Ruby Materials
